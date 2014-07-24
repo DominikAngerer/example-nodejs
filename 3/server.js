@@ -16,5 +16,5 @@ app.get('/circle/circumference', function(req, res){
 });
 
 http.createServer(app).listen(9999, function() {
-    console.log('Listening on port %d', server.address().port);
+    console.log('Listening on port 9999');
 });

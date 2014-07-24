@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "4.6.1",
+    "mysql": "2.4.0"
+  }
+}
